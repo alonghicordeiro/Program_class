@@ -1,4 +1,4 @@
-## Year in college:2009 
+## Year in college:2009
 
 
 ## Computing experience:Low  
@@ -8,6 +8,3 @@
 
 
 ## Describe what would like to do as a project for this class: I would like to create functions to alow me manage my folders and also rename files
-  
- 
-
